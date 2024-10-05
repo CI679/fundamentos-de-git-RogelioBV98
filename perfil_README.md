@@ -1,0 +1,1 @@
+El curso me dio a entender una versión fácil de comprender de los conceptos básicos que se deben conocer para entender git, aun tengo algunos problemas para entender mas sobre branch a la hora de trabajar en equipo pero trabajare en ello sobre la marcha.
